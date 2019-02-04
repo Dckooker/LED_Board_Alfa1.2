@@ -23,7 +23,7 @@ public class DataSender extends AsyncTask<String,Void,Void> {
 
         try
         {
-            s = new Socket("10.30.120.173",6000);
+            s = new Socket("ip adress here","port # here");
 
             pw = new PrintWriter(s.getOutputStream());
             pw.write(message);
