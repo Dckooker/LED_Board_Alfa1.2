@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LED_Board_Alfa1</string>
+    <string name="pick_color_preset">pick_color_preset</string>
+    <string name="choose_game">Choose Game</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">Button</string>
+    <string name="button7">Button</string>
+    <string name="button8">Button</string>
+    <string name="button9">Button</string>
+
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_4">4</string>
+    <string name="home"><![CDATA[<Home]]></string>
+</resources>
